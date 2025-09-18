@@ -1,0 +1,77 @@
+/* Created With Love By Amin :) */
+.thumbnail{
+  width: 100%;
+  border-radius: 13px;
+  cursor: pointer;
+}
+
+.profile-pic1{
+  width: 36px;
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+.video-stats,
+.video-author{
+  display: block;
+  font-size: 12px;
+  color: #606060;
+  cursor: pointer;
+}
+
+.video-author{
+  margin-bottom: 4px;
+}
+
+.video-title{
+  margin-top: 0;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.thumbnail-row{
+  margin-bottom: 8px;
+  position: relative;
+}
+
+.video-info-grid{
+  display: grid;
+  grid-template-columns: 50px 1fr;
+}
+
+.video-grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 16px;
+  row-gap: 40px;
+}
+
+.vid-time{
+  font-family: Roboto,Arial;
+  font-size: 13px;
+  font-weight: 500;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-bottom: 4px;
+  padding-top: 4px;
+  border-radius: 2px;
+  background-color: black;
+  color: white;
+  position: absolute;
+  bottom: 8px;
+  right: 5px;
+}
+
+.verified{
+  background-color: #606060;
+  color: aliceblue;
+  border-radius: 12px;
+  padding-bottom: 1px;
+  padding-left: 3px;
+  padding-right: 3px;
+  padding-top: 1px;
+}
+/* Created With Love By Amin :) */
